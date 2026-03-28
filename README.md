@@ -1,0 +1,4 @@
+# traeDemo
+
+Trae demo repository.
+
